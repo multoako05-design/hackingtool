@@ -1,4 +1,4 @@
-name: test_install
+name: fbpwd_install
 on:
   pull_request:
     branches: [master]
