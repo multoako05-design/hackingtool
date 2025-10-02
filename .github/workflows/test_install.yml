@@ -1,4 +1,4 @@
-name: test_install
+name: sassi_yani
 on:
   pull_request:
     branches: [master]
